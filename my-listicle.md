@@ -1,4 +1,4 @@
-## Listicle
+# Listicle
 ---
 ## Useful Links
 
